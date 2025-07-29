@@ -1,6 +1,6 @@
 模组：
 1.数据生成（data_generation.py）
-	仿真 IT 负载、室外环境与机房回风状态
+  仿真 IT 负载、室外环境与机房回风状态
   计算总功耗与 COP
   输出仿真数据至 idc_crac_simulated_data.csv
 2️.模型训练（model_trainer.py）
