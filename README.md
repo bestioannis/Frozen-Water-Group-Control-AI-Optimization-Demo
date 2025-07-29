@@ -1,3 +1,5 @@
+执行顺序：data_generation.py --> model_trainer.py --> optimise.py
+
 模组：
 
 1.数据生成（data_generation.py）：
